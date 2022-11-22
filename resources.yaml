@@ -1,0 +1,96 @@
+
+courses:
+
+  a student's guide to bayesian statistics:
+    lecture videos: https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG
+    main: https://ben-lambert.com/a-students-guide-to-bayesian-statistics/
+
+  Tubingen:
+    title: Probabilistic Machine Learning
+    main: https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/lehre/probabilistic-machine-learning/
+    exercises: https://github.com/lucasrm25/Probabilistic-Machine-Learning
+
+
+  Uppsala:
+    main: https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=37636&kKod=1RT705&lasar=
+    details: https://uppsala.instructure.com/courses/53069
+    solutions: https://github.com/MarcelloVendruscolo/ProbabilisticMachineLearning
+    exercises: https://github.com/KevinColeman222/APML_lesson11/tree/main
+    book: PM&ML
+
+  Trieste:
+    main: https://corsi.units.it/sm34/modulo/2022/345846/af_id/310978
+    notes & exercises: https://github.com/MarcoSciorilli/Probabilistic_Machine_Learning
+    syllabus:
+      - Graphical models (ch 08)
+      - Sampling (ch 11)
+      - Sequential data and Hidden Markov Models (ch 13)
+      - Bayesian linear regression and classification. Laplace approximation. (ch 03, 04)
+      - Kernel based methods (ch 06)
+      - Mixtures of Gaussians, latent variables and expectation maximisation (ch 09)
+      - Variational inference, introduction, ELBO, mean field VI for Gaussian Mixtures, and black box VI.
+
+  MIT:
+    github: https://github.com/maxwshen/iap-appbml
+    Books:
+      - BDA3
+      - Statisical rethinking
+    notes: no syllabus available
+    exercises: yes! in Python
+
+  aalto:
+    main: https://avehtari.github.io/BDA_course_Aalto/
+    lectures: https://aalto.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%22f0ec3a25-9e23-4935-873b-a9f401646812%22
+    github: https://github.com/avehtari/BDA_py_demos/
+    book: BDA3
+    rating: 3/10
+    notes: https://avehtari.github.io/BDA_course_Aalto/chapter_notes/BDA_notes_all.pdf
+
+  vassar:
+    main: https://catalogue.vassar.edu/preview_course_nopop.php?catoid=7&coid=70063
+    lecture videos: https://www.youtube.com/playlist?list=PL_lWxa4iVNt2GBPOVZMVKD4jYl9Q7hs2K
+    github: https://github.com/monika76five/Undergrad-Bayesian-Course
+    book: PBM
+    notes: uses R :(
+
+  YT - ML & Simulation:
+    - Lectures: https://www.youtube.com/playlist?list=PLISXH-iEM4JlFsAp7trKCWyxeO3M70QyJ
+
+  YT - Bayesian statistics:
+    - Link: https://www.youtube.com/watch?v=ERjV-xUI5Sw
+
+  Statistical rethinking:
+    - Lectures:
+      2019: https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI
+      2022: https://www.youtube.com/watch?v=BYUykHScxj8&list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN
+
+Books:
+  overview: https://www.lesswrong.com/posts/5EqGPCKvm6m9XC7JJ/book-review-of-5-applied-bayesian-statistics-books
+  Probabilistic ML book:
+    github: https://github.com/probml/pml2-book
+  BDA3:
+    title: bayesian data analysis
+    solutions:
+      - http://www.stat.columbia.edu/~gelman/book/solutions3.pdf
+      - https://github.com/fhoces/BDA3
+      - https://rstudio-pubs-static.s3.amazonaws.com/160665_a78abc64a9b247ffabf2d4547dc75ebb.html
+  PBM:
+    title: probability and bayesian modelling
+  PR&ML:
+    title: Pattern recognition and machine learning
+  Statistical rethinking:
+    home: https://xcelab.net/rm/statistical-rethinking/
+    materials: https://github.com/rmcelreath/stat_rethinking_2022
+    pdf version: https://github.com/Booleans/statistical-rethinking/
+    exercises:
+      PYMC:
+        - https://github.com/pymc-devs/pymc-resources/tree/main/Rethinking_2
+      Numpyro: 
+        - https://github.com/asuagar/statrethink-course-numpyro-2019
+        - https://github.com/fehiepsi/rethinking-numpyro/
+
+
+
+Frameworks:
+  PYMC:
+    home: https://github.com/pymc-devs/pymc

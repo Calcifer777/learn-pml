@@ -1,0 +1,6 @@
+scipy==1.9.3
+pystan==3.5.0
+tensorflow==2.11.0
+tensorflow-probability==0.18.0
+seaborn==0.12.1
+rethinking @ git+https://github.com/ksachdeva/rethinking-tensorflow-probability.git@16867486858325d4688d9b27d1876092e27dd9f4
